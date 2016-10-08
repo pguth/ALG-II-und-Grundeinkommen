@@ -4,7 +4,8 @@
 Universität Stuttgart
 Institut für Sozialwissenschaften
 Abt. I: Politische Systeme und Politische Soziologie
-Proseminar: Das politische System der Bundesrepublik Deutschland Leitung: Jürgen Bauknecht, M.A.
+Proseminar: Das politische System der Bundesrepublik Deutschland
+Leitung: Jürgen Bauknecht, M.A.
 Wintersemester 2010/2011
 ```
 
