@@ -1,4 +1,13 @@
 # ALG II und Grundeinkommen
+
+```
+Universität Stuttgart
+Institut für Sozialwissenschaften
+Abt. I: Politische Systeme und Politische Soziologie
+Proseminar: Das politische System der Bundesrepublik Deutschland Leitung: Jürgen Bauknecht, M.A.
+Wintersemester 2010/2011
+```
+
 „Hartz IV ist offener Strafvollzug.“ behauptete Götz W. Werner 2006 in einem Zeitungsinterview mit dem Stern ([Luik 2006](http://www.stern.de/wirtschaft/job/grundversorgung--das-manische-schauen-auf-arbeit-macht-uns-alle-krank--3602884.html)). Und laut einer Umfrage im Auftrag der BertelsmannStiftung wünschen sich 88% der Deutschen eine einen stärkeren Sozialausgleich leistende neue Wirtschaftsordnung ([Gesellschaft für Angewandte Wirtschaftsforschung mbH 2010: 40](http://www.unternimm-die-zukunft.de/de/zum-grundeinkommen/bgestudie_gesell_angewandte_wirtschaftsforschung/)). Was ist also dran an der Behauptung von Werner? An welche Konditionalitäten sind die Sozialleistungen in Deutschland gebunden?  
 Werner ist Vertreter des sogenannten „bedingungslosen Grundeinkommens“ (kurz „Grundeinkommen“), der Idee, jedem Bürger staatlich einen Geldbetrag zur Verfügung zu stellen, der eine Absicherung hinsichtlich dessen darstellt, was man mitunter als „materielle und soziokulturelle“ Bedürfnisse des Menschen bezeichnet. Nur wenn diese Bedürfnisse bedingungslos abgesichert wären, würde der Mensch „andere Werte in den Mittelpunkt stellen, als die pure Versorgung mit dem Nötigsten.“ ([Werner 2007: 103](https://www.amazon.de/Einkommen-f%C3%BCr-alle-bedingungslosen-Grundeinkommens/dp/3462037757))  
 Im Folgenden möchte ich das deutsche Sozialsystemvorrangig aus der Perspektive der Befürworter des bedingungslosen Grundeinkommens untersuchen. Ich konzentriere mich auf diejenigen Aspekte, die Herrn Werner dazu gebracht haben könnten, von „Bedrohung und staatlich verordneter Ungerechtigkeit“ ([Werner 2007: 10](https://www.amazon.de/Einkommen-f%C3%BCr-alle-bedingungslosen-Grundeinkommens/dp/3462037757)) zu sprechen. Anschließend stelle ich dar, was Werner von einem bedingungslosen Grundeinkommen an Wirkungen erwartet.  
